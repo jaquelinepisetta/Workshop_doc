@@ -1,3 +1,4 @@
+BR Workshop
 -Who?
 Who is your audience?
 
@@ -22,7 +23,7 @@ Definition and description of the thematic information
 Definition of the cartographic base
 Definition of the data source
 
--Map project.
+-Map design
 What is the reference system?
 Will it be a fixed-scale map or a multi-scale map?
 
@@ -31,7 +32,7 @@ Definition of the graphic primitive of the theme features and their classes
 Define the level of measurement of each theme and its classes
 Definition of the visual variable for representing the theme and its classes
 
--Map construction = Interactive map
+-System development
 What is the geographic database?
 What is the form of access to the geographic data?
 What are the tools of the System interface?
@@ -40,6 +41,6 @@ What are the tools for interaction with the map?
 -Metadata.
 Do you need to display or link your data to metadata?
 
--Interface
+-User Interface
 Visual identity of the System
 Prototyping
