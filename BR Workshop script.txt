@@ -1,0 +1,46 @@
+BR Workshop
+-Who?
+Who is your audience?
+
+-Explore–Explain.
+What is the objective/application/use of the map?
+
+-Display modes.
+Which display modes can be used? Desktop? Mobile?
+What is the access mode to the System?
+
+-Application architecture
+What is the programming language?
+Will frameworks be used?
+Will a database be used? Which one?
+Will integrated services be used in the application? Which ones?
+
+-Conceptual Model?
+Creation of the use case diagram?
+
+-Determine which map will be built
+Definition and description of the thematic information
+Definition of the cartographic base
+Definition of the data source
+
+-Map design
+What is the reference system?
+Will it be a fixed-scale map or a multi-scale map?
+
+-Define the cartographic language of each map
+Definition of the graphic primitive of the theme features and their classes
+Define the level of measurement of each theme and its classes
+Definition of the visual variable for representing the theme and its classes
+
+-System development
+What is the geographic database?
+What is the form of access to the geographic data?
+What are the tools of the System interface?
+What are the tools for interaction with the map?
+
+-Metadata.
+Do you need to display or link your data to metadata?
+
+-User Interface
+Visual identity of the System
+Prototyping

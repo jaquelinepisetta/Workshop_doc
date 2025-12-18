@@ -1,0 +1,33 @@
+SA Workshop
+-Who?
+Who is your audience?
+
+-Explore–Explain.
+What is the objective/application/use of the map?
+
+-Define the contexto and Display modes
+From which devices will the map be accessed? Desktop? Mobile?A responsive web system?
+Examples the users and the uses
+
+-Application architecture
+What programming language?
+Will frameworks be used?
+Will it use web services or APIs? Any suggestions?
+
+-Map design
+What will be the reference system?
+Will it be a fixed scale map or a multi-scale map?
+What zoom levels are relevant for this system?
+
+-System development
+Will you be using a database management system (DBMS)? Which one?
+What interface tools are available in the system?
+What tools are available to interact with the map?
+
+-User Interface
+Are there essential aspects of the visual identity of the system?
+Are there any tools or methods for prototyping?
+
+-Map definition
+What are the most important/priority indicators?
+Which basemap would be used?
